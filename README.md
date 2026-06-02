@@ -1,4 +1,4 @@
-# OA Generativa sobre projetos ;)
+# IA Generativa sobre projetos ;)
 
 ## 📒 Descrição
 O projeto irá falar o que é projeto baseado no PMBOK 7, falando de seus principios e dominios.
