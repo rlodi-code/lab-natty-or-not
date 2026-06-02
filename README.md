@@ -5,7 +5,7 @@ O projeto irá falar o que é projeto baseado no PMBOK 7, falando de seus princi
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT -> gerar texto;
-- ElevenLabs - Speech-to-text  -> gerar o audio;
+- ElevenLabs -> Speech-to-text  -> gerar o audio;
 - ChatGPT -> gerar uma imagem para a chamada da apresentação;
 - D-ID -> Gerar o Avatar falando sobre o projetos;
 
