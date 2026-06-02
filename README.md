@@ -7,10 +7,12 @@ O projeto irá falar o que é projeto baseado no PMBOK 7, falando de seus princi
 - ChatGPT -> gerar texto;
 - ElevenLabs - Speech-to-text  -> gerar o audio;
 - ChatGPT -> gerar uma imagem para a chamada da apresentação;
-- ElevenLabs  -> gerar o Avatar falando o assunto;
+- D-ID -> Gerar o Avatar falando sobre o projetos;
 
 ## 🧐 Processo de Criação
-1. Solicitei ao ChatGPT criar um texto com 
+- Solicitei ao ChatGPT criar um texto sobre projetos;
+- Splicitei ao ElevenLabs a criar o áudio
+- Solititei ao D-ID criar o Avatar;
 
 ## 🚀 Resultados
 O resultado foi um avatrar fazendo a leitura do texto gerado pelo ChatGPT.
