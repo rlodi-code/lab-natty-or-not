@@ -13,10 +13,7 @@ ElevenLabs  -> gerar o Avatar falando o assunto
 1. Solicitei ao ChatGPT criar um texto com 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O resultado foi um avatrar fazendo a leitura do texto gerado pelo ChatGPT.
 
 ---------------------------------------------------------------------------------------------------
 
